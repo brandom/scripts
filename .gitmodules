@@ -1,0 +1,6 @@
+[submodule "docker-log"]
+	path = docker-log
+	url = ./docker-log
+[submodule "test"]
+	path = test
+	url = ./test

@@ -1,0 +1,13 @@
+{
+  "name": "docker-log",
+  "version": "1.0.0",
+  "description": "Show the commit history of a docker image",
+  "main": "index.sh",
+  "scripts": {
+    "bin": "./index.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Van Noy",
+  "license": "ISC",
+  "dependencies": {}
+}

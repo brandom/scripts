@@ -1,0 +1,37 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "Node scripts",
+  "bin": "./index.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Van Noy",
+  "license": "ISC"
+}
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": ""
+  "scripts": {
+    "bin": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Van Noy",
+  "license": "ISC",
+  "dependencies": {}
+}
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": ""
+  "scripts": {
+    "bin": "",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Van Noy",
+  "license": "ISC",
+  "dependencies": {}
+}
